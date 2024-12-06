@@ -1,0 +1,321 @@
+[
+    {
+        "question": "D is A's son. C is the mother of P and wife of D. How is A related to C?",
+        "options": [
+            " Father ",
+            " Uncle ",
+            " Father-in-law ",
+            " Data inadequate "
+        ],
+        "answer": " Data inadequate ",
+        "reasoning": "C is the wife of D and D is the son of A. Hence, A is either father-in-law or mother-in-law."
+    },
+    {
+        "question": "A is the brother of B. C is the mother of B. M is the sister of C. How is M related to B?",
+        "options": [
+            " Nephew ",
+            " Niece ",
+            " Aunt ",
+            " Cannot be determined "
+        ],
+        "answer": " Aunt ",
+        "reasoning": "According to the question,From the above diagram, it is clear that M is the aunt of B."
+    },
+    {
+        "question": "R is the daughter of Q. M is the sister of B who is the son of Q. How M is related to R?",
+        "options": [
+            " Cousin ",
+            " Niece ",
+            " Sister ",
+            " Aunt "
+        ],
+        "answer": " Sister ",
+        "reasoning": "So, M is R's sister."
+    },
+    {
+        "question": "M is N's brother. S is D's mother and M's aunt. How is D related to M?",
+        "options": [
+            " Sister ",
+            " Cousin ",
+            " Aunt ",
+            " Cannot be determined "
+        ],
+        "answer": " Cousin ",
+        "reasoning": "S, is D's mother and M's aunt. Therefore, D is M's cousin."
+    },
+    {
+        "question": "P is the father of J. S is the mother of N who is the brother of J. B is the son of S. C is the sister of B. How J is related to C?",
+        "options": [
+            " Data inadequate ",
+            " Cousin ",
+            " Brother ",
+            " Sister "
+        ],
+        "answer": " Data inadequate ",
+        "reasoning": "The gender of J is unknown, therefore J may be brother or sister of C."
+    },
+    {
+        "question": "D is brother of B. M is brother of B. K is father of M. T is wife of K. How is B related to T?",
+        "options": [
+            " Son ",
+            " Daughter ",
+            " Son or Daughter ",
+            " Data inadequate "
+        ],
+        "answer": " Son or Daughter ",
+        "reasoning": "So, B is either son or daughter of T."
+    },
+    {
+        "question": "Lakshmi and Meena were Rohan's wives, Shalini is Meena's step-daughter. How was Lakshmi related to Shalini?",
+        "options": [
+            " Sister ",
+            " Mother-in-Law ",
+            " Mother ",
+            " Step-mother "
+        ],
+        "answer": " Mother ",
+        "reasoning": ""
+    },
+    {
+        "question": "Daya has a brother, Anil. Daya is the son of Chandra. Bimal is Chandra's father. In terms of relationship, what is Anil of Bimal?",
+        "options": [
+            " Son ",
+            " Grandson ",
+            " Brother ",
+            " Grandfather "
+        ],
+        "answer": " Grandson ",
+        "reasoning": ""
+    },
+    {
+        "question": "Vinod is the brother of Bhaskar. Manohar is the sister of Vinod. Biswal is the brother of Preetam and Preetam is the daughter of Bhaskar. Who is the uncle of Biswal?",
+        "options": [
+            " Bhaskar ",
+            " Manohar ",
+            " Vinod ",
+            " Insufficient data "
+        ],
+        "answer": " Vinod ",
+        "reasoning": "Thus, Vinod will be uncle of Biswal."
+    },
+    {
+        "question": "A is the mother of B. C is the father of B and C has three children. On the basis of this information, find out which of the following relations is correct:",
+        "options": [
+            " C has three daughters. ",
+            " C has three sons. ",
+            " B is the son. ",
+            " B has two brothers or two sisters or one brother and one sister. "
+        ],
+        "answer": " B has two brothers or two sisters or one brother and one sister. ",
+        "reasoning": "Thus, C has three children but we can't say that he has three daughters or three sons.Also, we don't know that B is a son or daughter."
+    },
+    {
+        "question": "A is the brother of B. A is the brother of C. To find what is the relation between B and C. What minimum information from the following is necessary?",
+        "options": [
+            " Only 1 ",
+            " Only 2 ",
+            " Either 1 or 2 ",
+            " both 1 and 2 "
+        ],
+        "answer": " both 1 and 2 ",
+        "reasoning": "Without knowing the gender of C, we can't be determined whether B is the sister of C or B is the brother of C. Similarly without knowing the gender of B we can't be determined whether C is the sister of B or C is the brother of B. Therefore, both 1 and 2 are necessary."
+    },
+    {
+        "question": "A and B are married couple. X and Y are brothers. X is the brother of A. How is Y related to B?",
+        "options": [
+            " Brother-in-law ",
+            " Brother ",
+            " Son-in-law ",
+            " Cousin "
+        ],
+        "answer": " Brother-in-law ",
+        "reasoning": "X and Y are brothers. X is the brother of A, so, Y is the brother of A. So, Y is the brother-in-law of B."
+    },
+    {
+        "question": "A and B are brothers. C and D are sisters. A's son is D's brother. How is B related to C?",
+        "options": [
+            " Father ",
+            " Brother ",
+            " Grand father ",
+            " Uncle "
+        ],
+        "answer": " Uncle ",
+        "reasoning": "B is the brother of A and A's son is the brother of D, so D is the daughter of A. Since C and D are sisters, so C is also the daughter of A. Thus, B is the uncle of C."
+    },
+    {
+        "question": "X is the wife of  Y and Y is the brother of Z, Z is the son of P. How is P related to X?",
+        "options": [
+            " Father ",
+            " Aunt ",
+            " Brother ",
+            " Father-in-law "
+        ],
+        "answer": " Father-in-law ",
+        "reasoning": "The relationship chart, based on the given problem can be worked out as given below:Y is the brother of Z who is the son of P. So, Y is also the son of P. When P is the father of Y, and X is the wife of Y then P is the father-in-law of X."
+    },
+    {
+        "question": "Ajay is the brother of Vijay. Mili is the sister of Ajay. Sanjay is the brother of Rahul, and Mehul is the daughter of Vijay. Who is Sanjay's Uncle?",
+        "options": [
+            " Rahul ",
+            " Ajay ",
+            " Mehul ",
+            " Data inadequate "
+        ],
+        "answer": " Data inadequate ",
+        "reasoning": "1. Mehul (daughter)2. There are two sets of related information given that is incomplete and no relation can be established between the two sets."
+    },
+    {
+        "question": "A is the uncle of B, who is the daughter of C and C is the daughter-in-law of P. How is A related to P?",
+        "options": [
+            " Brother ",
+            " Son ",
+            " Son-in-law ",
+            " Data inadequate "
+        ],
+        "answer": " Son ",
+        "reasoning": "B is the daughter of C and C is the daughter-in-law of P. So P is the grandfather of B. Also, A is the uncle of B; i.e., A is the brother of B's father. Thus, A is the son of P."
+    },
+    {
+        "question": "E is the son of A. D is the son of B. E is married to C. C is B's daughter. How is D related to E?",
+        "options": [
+            " Brother ",
+            " Uncle ",
+            " Father-in-law ",
+            " Brother-in-law "
+        ],
+        "answer": " Brother-in-law ",
+        "reasoning": "C is B's daughter and D is B's son. So, D is the brother of C. E is a male married to C; so, E is the husband of C, whose brother is D. Thus, D is the brother-in-law of E."
+    },
+    {
+        "question": "Directions (Q.1/2): A family consists of six members P, Q, R, X, Y and Z. Q is the son of R but R is not the mother of Q. P and R are a married couple. Y is the brother of R. X is the daughter of P. Z is the brother of P. Who is the brother-in-law of R?",
+        "options": [
+            " P ",
+            " Z ",
+            " Y ",
+            " X "
+        ],
+        "answer": " Z ",
+        "reasoning": "Q is the son of R but R is not the mother of Q \u21d2 R is the father of Q.P and R are married couples.\u21d2 \u2234 Q is brother of X."
+    },
+    {
+        "question": "Directions (Q.2/2): A family consists of six members P, Q, R, X, Y and Z. Q is the son of R but R is not mother of Q. P and R are a married couple. Y is the brother of R. X is the daughter of P. Z is brother of P. How is Q related to X?",
+        "options": [
+            " Husband ",
+            " Brother ",
+            " Uncle ",
+            " Husband "
+        ],
+        "answer": " Brother ",
+        "reasoning": "\u2234 Q is brother of X."
+    },
+    {
+        "question": "Directions (Q.1/2): S and R are brothers. T is the daughter of S. U is the spouse of R and mother of Q. P is the daughter of V who is the spouse of T. Who is the grandfather of P?",
+        "options": [
+            " U ",
+            " S ",
+            " R ",
+            " V "
+        ],
+        "answer": " S ",
+        "reasoning": "P is the daughter of V, who is spouse of T. T is the daughter of S. So, T is the mother and V is the father of P. Therefore, S is the grandfather of P."
+    },
+    {
+        "question": "Directions (Q.2/2): S and R are brothers. T is the daughter of S. U is the spouse of R and mother of Q. P is the daughter of V who is the spouse of T. Who is the cousin of Q?",
+        "options": [
+            " T ",
+            " V ",
+            " R ",
+            " P "
+        ],
+        "answer": " T ",
+        "reasoning": "R and S are brothers. Q is the child of R, and T is the child of S. So, the cousin of Q is T."
+    },
+    {
+        "question": "Directions (Q.1/5): Seeta, Rajinder and Surinder are children of Mr. and Mrs. Maudgil. Renu, Raja and Sunil are children of Mr. and Mrs. Bhaskar. Sunil and Seeta are married and Ashok and Sanjay are their children. Geeta and Rakesh are children of Mr. and Mrs. Jain. Geeta is married to Surinder and has three children named Rita, Sonu and Raju. How is Rajinder related to Raju?",
+        "options": [
+            " Brother ",
+            " Uncle ",
+            " Brother-in-law ",
+            " Cousin "
+        ],
+        "answer": " Uncle ",
+        "reasoning": "Raju is the son of Surinder who is the brother of Rajinder. So, Rajinder is the uncle of Raju."
+    },
+    {
+        "question": "Directions (Q.2/5): Seeta, Rajinder and Surinder are children of Mr. and Mrs. Maudgil. Renu, Raja and Sunil are children of Mr. and Mrs. Bhaskar. Sunil and Seeta are married and Ashok and Sanjay are their children. Geeta and Rakesh are children of Mr. and Mrs. Jain. Geeta is married to Surinder and has three children named Rita, Sonu and Raju. How is Rajinder related to Ashok?",
+        "options": [
+            " Brother-in-law ",
+            " Father-in-law ",
+            " Causin ",
+            " Maternal Uncle "
+        ],
+        "answer": " Maternal Uncle ",
+        "reasoning": "Ashok is the son of Seeta whose brother is Rajinder. So, Rajinder is the maternal uncle of Ashok."
+    },
+    {
+        "question": "Directions (Q.3/5): Seeta, Rajinder and Surinder are children of Mr. and Mrs. Maudgil. Renu, Raja and Sunil are children of Mr. and Mrs. Bhaskar. Sunil and Seeta are married and Ashok and Sanjay are their children. Geeta and Rakesh are children of Mr. and Mrs. Jain. Geeta is married to Surinder and has three children named Rita, Sonu and Raju. How is Rakesh related to Surinder?",
+        "options": [
+            " Brother ",
+            " Cousin ",
+            " Brother-in-law ",
+            " Maternal uncle "
+        ],
+        "answer": " Brother-in-law ",
+        "reasoning": "Rakesh is the brother of Geeta and Rajinder's brother is Surinder who is the husband of Geeta."
+    },
+    {
+        "question": "Directions (Q.4/5): Seeta, Rajinder and Surinder are children of Mr. and Mrs. Maudgil. Renu, Raja and Sunil are children of Mr. and Mrs. Bhaskar. Sunil and Seeta are married and Ashok and Sanjay are their children. Geeta and Rakesh are children of Mr. and Mrs. Jain. Geeta is married to Surinder and has three children named Rita, Sonu and Raju. How is Rakesh related to Rita?",
+        "options": [
+            " Brother ",
+            " Cousin ",
+            " Uncle ",
+            " Maternal uncle "
+        ],
+        "answer": " Maternal uncle ",
+        "reasoning": "Rita is the daughter of Geeta whose brother is Rakesh."
+    },
+    {
+        "question": "Directions (Q.5/5): Seeta, Rajinder and Surinder are children of Mr. and Mrs. Maudgil. Renu, Raja and Sunil are children of Mr. and Mrs. Bhaskar. Sunil and Seeta are married and Ashok and Sanjay are their children. Geeta and Rakesh are children of Mr. and Mrs. Jain. Geeta is married to Surinder and has three children named Rita, Sonu and Raju. Sunil and Rakesh are related as:",
+        "options": [
+            " Brothers ",
+            " Cousins ",
+            " Uncle and Cousin ",
+            " Brother-in-law "
+        ],
+        "answer": " Brother-in-law ",
+        "reasoning": "Sunil's wife \u2013 Seeta; Seeta's brother \u2013 Surinder; Surinder's brother-in-law \u2013 Rakesh."
+    },
+    {
+        "question": "Directions (Q.1/3): Rama and Mohan are a married couple having two daughters named Smita and Devika. Devika is married to Aman who is the son of Madhu and Jeewan. Romila is the daughter of Aman. Krishna who is Aman's sister is married to Sunil and has two sons Anuj and Ankur. Ankur is the grandson of Madhu and Jeewan. How is Krishna related to Devika?",
+        "options": [
+            " Sister-in-law ",
+            " Sister ",
+            " Aunt ",
+            " None of these "
+        ],
+        "answer": " Sister-in-law ",
+        "reasoning": "Since Devika is the wife of Aman, and Krishna is the sister of Aman, therefore, Krishna is the sister-in-law of Devika."
+    },
+    {
+        "question": "Directions (Q.2/3): Rama and Mohan are a married couple having two daughters named Smita and Devika. Devika is married to Aman who is the son of Madhu and Jeewan. Romila is the daughter of Aman. Krishna who is Aman's sister is married to Sunil and has two sons Anuj and Ankur. Ankur is the grandson of Madhu and Jeewan. What is the relationship between Anuj and Romila?",
+        "options": [
+            " Uncle \u2013 Niece ",
+            " Father \u2013 Daughter ",
+            " Husband \u2013 Wife ",
+            " Cousins "
+        ],
+        "answer": " Cousins ",
+        "reasoning": "Since Anuj is the son of Krishna, and Romila is the daughter of Aman, and Aman is the brother of Krishna, therefore Anuj and Romila are cousins."
+    },
+    {
+        "question": "Directions (Q.3/3): Rama and Mohan are a married couple having two daughters named Smita and Devika. Devika is married to Aman who is the son of Madhu and Jeewan. Romila is the daughter of Aman. Krishna who is Aman's sister is married to Sunil and has two sons Anuj and Ankur. Ankur is the grandson of Madhu and Jeewan. Which of the following is true?",
+        "options": [
+            " Anuj is the son of Smita. ",
+            " Romila is the cousin of Krishna. ",
+            " Madhu is Sunil's mother-in-law. ",
+            " Jeewan is Devika's maternal uncle. "
+        ],
+        "answer": " Madhu is Sunil's mother-in-law. ",
+        "reasoning": "Since Madhu is the mother of Krishna who is the wife of Sunil. Therefore, Madhu is Sunil's mother-in-law."
+    }
+]

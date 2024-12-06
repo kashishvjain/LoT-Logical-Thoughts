@@ -523,6 +523,13 @@ class ObjectsDataset(CauseEffectDataset):
         return {"question": question, "answer": gold_answer}
 
 
+class CustomDataset(CauseEffectDataset):
+    def _parse_data(self, idata):
+        question, answer = idata["context"] + idata["question"], idata["answer"]
+        gold_answer = extract_gold_answer("Objects", answer)
+        return {"question": question, "answer": gold_answer}
+
+
 DATASETS = {
     "GSM8K": GSM8KDataset,
     "LogiQA": LogiQADataset,
@@ -533,4 +540,5 @@ DATASETS = {
     "SocialQA": SocialQADataset,
     "OddOneOut": OddOneOutDataset,
     "Objects": ObjectsDataset,
+    "Custom": CustomDataset,
 }

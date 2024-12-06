@@ -17,9 +17,11 @@ parser = argparse.ArgumentParser(
 )
 parser.add_argument("--env", default="cot")
 parser.add_argument("--seed", default="1")
-parser.add_argument("--input", default="data/LogiQA/dev.txt")
+parser.add_argument("--input", default="data/Custom/processed_dataset.json")
 parser.add_argument("--output", default="data")
-parser.add_argument("--dataset_name", default="LogiQA")
+parser.add_argument(
+    "--dataset_name", default="LogiQA", help="Change to Custom to run family dataset"
+)
 parser.add_argument("--max_steps", default=30, type=int)
 parser.add_argument("--temperature", default=0, type=float)
 parser.add_argument("--agent_mode", default="argue_review")
