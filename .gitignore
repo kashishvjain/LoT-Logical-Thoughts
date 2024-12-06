@@ -1,0 +1,11 @@
+.vscode
+logs/
+*/__pycache__/*
+wandb/*
+file_2023*
+output*
+cases.jsonl
+hard.jsonl
+nohup.out
+myoutput.txt
+logicot.txt
